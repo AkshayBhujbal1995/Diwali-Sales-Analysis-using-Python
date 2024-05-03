@@ -20,7 +20,7 @@ This project conducts sales analysis for Diwali using Python. It analyzes cleane
 2. Open and run the `Diwali_Sales_Analysis.ipynb` notebook using Jupyter Notebook.
 3. Follow the instructions in the notebook to perform the analysis.
 
-## Contributors
+## Contributor
 - Akshay Bhujbal
 
 
